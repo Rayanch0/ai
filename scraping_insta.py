@@ -6,8 +6,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 # 📌 REMPLACE par ton identifiant et mot de passe 
-INSTAGRAM_USERNAME = "ramimarino2020@gmail.com"
-INSTAGRAM_PASSWORD = "timeline-of-onepiece"
+INSTAGRAM_USERNAME = ""
+INSTAGRAM_PASSWORD = ""
 
 # 📌 Le compte à scraper (ex: "gdg_algiers")
 TARGET_ACCOUNT = "gdg_algiers"
